@@ -13,7 +13,7 @@
 2. Architecture and Design
 - [X] System Architecture*
 - [ ] Interface Prototyping(UI)*
-- [ ] Data Flow Design*
+- [X] Data Flow Design*
 - [ ] Use Case Diagram
 - [X] Sequence Diagram*
 - [X] Class Diagram* - {*Interaction Diagram*, *Static/Activity Diagram*, *Component & Deployment Diagram*}
