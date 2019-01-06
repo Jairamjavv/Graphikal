@@ -11,7 +11,7 @@
 - [ ] SRS
 
 2. Architecture and Design
-- [ ] System Architecture*
+- [X] System Architecture*
 - [ ] Interface Prototyping(UI)*
 - [ ] Data Flow Design*
 - [ ] Use Case Diagram
