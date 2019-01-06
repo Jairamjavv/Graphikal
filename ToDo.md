@@ -5,7 +5,7 @@
 - [X] Requirements Gathering*
 - [ ] Requirement Analysis - {*Fuctional Requirements*, *Non-Functional Requirements*}
 - [ ] Data Source
-- [ ] Cost Estimation*
+- [X] Cost Estimation*
 - [ ] Project Schedule
 - [ ] Risk Analysis*
 - [ ] SRS
