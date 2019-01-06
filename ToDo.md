@@ -15,7 +15,7 @@
 - [ ] Interface Prototyping(UI)*
 - [ ] Data Flow Design*
 - [ ] Use Case Diagram
-- [ ] Sequence Diagram*
+- [X] Sequence Diagram*
 - [ ] Class Diagram* - {*Interaction Diagram*, *Static/Activity Diagram*, *Component & Deployment Diagram*}
 
 3. PPT
