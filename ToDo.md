@@ -16,6 +16,6 @@
 - [ ] Data Flow Design*
 - [ ] Use Case Diagram
 - [X] Sequence Diagram*
-- [ ] Class Diagram* - {*Interaction Diagram*, *Static/Activity Diagram*, *Component & Deployment Diagram*}
+- [X] Class Diagram* - {*Interaction Diagram*, *Static/Activity Diagram*, *Component & Deployment Diagram*}
 
 3. PPT
