@@ -1,7 +1,7 @@
 `First Review`
 1. Project Overview
 - [X] Literature Survey
-- [ ] Project Description
+- [X] Project Description
 - [ ] Requirements Gathering
 - [ ] Requirement Analysis - {*Fuctional Requirements*, *Non-Functional Requirements*}
 - [ ] Data Source
