@@ -2,7 +2,7 @@
 1. Project Overview
 - [X] Literature Survey*
 - [X] Project Description*
-- [ ] Requirements Gathering*
+- [X] Requirements Gathering*
 - [ ] Requirement Analysis - {*Fuctional Requirements*, *Non-Functional Requirements*}
 - [ ] Data Source
 - [ ] Cost Estimation*
